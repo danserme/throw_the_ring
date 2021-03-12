@@ -8,4 +8,4 @@ For linking the toy and ProtoPie app I used Android smartphone with Bridge app i
 User has to throw the rings on towers and the score will show up on the screen of app. 
 
 For video preview follow this link: https://youtu.be/hf70trUCpd8. 
-For the last  ProtoPie app follow this link: https://cloud.protopie.io/p/3994ad14c5.
+For the last  ProtoPie app follow this link: https://cloud.protopie.io/p/0f37feeacb.
